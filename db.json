@@ -39,6 +39,16 @@
         "location": "Mumbai",
         "category": "Music",
         "price": 400
+      },
+      {
+        "poster": "https://t3.ftcdn.net/jpg/02/48/27/36/360_F_248273656_syOBUZR0oLO2DAu5TqFj8mYfL1YdWsvE.jpg",
+        "name": "Sitar",
+        "description": "Sitar is a musical instrument",
+        "date": "2023-08-10",
+        "location": "Siwan, Bihar",
+        "category": "Music",
+        "price": "25000",
+        "id": 5
       }
     ]
   }
